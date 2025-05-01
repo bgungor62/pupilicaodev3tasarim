@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="app_karsilama">Uygulamaya Hoşgeldiniz</string>
+    <string name="app_aciklama">Kullanıcıların tercihlerine göre yapay zeka tarafından oluşturulan arkadaşlarla bağlantı kurmasını sağlamak.</string>
+    <string name="app_google">Google ile devam et</string>
+    <string name="app_facebbok">Facebook ile devam et</string>
+    <string name="app_email">Email ile devam et</string>
+    <string name="app_or"> Veya </string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="app_karsilama">Welcome to App</string>
+    <string name="app_aciklama">Allowing users to connect with AI-generated firends based on their preferences.</string>
+    <string name="app_google">Contuine with Google</string>
+    <string name="app_facebbok">Contuine with Facebook</string>
+    <string name="app_email">Contuine with Email</string>
+    <string name="app_or"> Or </string>
+</resources>

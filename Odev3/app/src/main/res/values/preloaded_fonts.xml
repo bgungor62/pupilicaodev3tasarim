@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alef</item>
+        <item>@font/alex_brush</item>
+        <item>@font/bodoni_moda_medium</item>
+        <item>@font/butterfly_kids</item>
+        <item>@font/tinos</item>
+    </array>
+</resources>

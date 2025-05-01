@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yazirenk">#FF000000</color>
+    <color name="kenarlik">#636363</color>
+    <color name="yaziRenk1">#D95204</color>
+    <color name="anarenk">#F2C53D</color>
+    <color name="butonrenk">#FFFFFFFF</color>
+
+</resources>
